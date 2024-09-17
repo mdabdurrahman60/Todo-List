@@ -2,6 +2,15 @@ body{
     font-family: Arial;
 
 }
+.name{
+    font-size: 30px;
+    margin-left: 140px;
+    font-weight: bold;
+}
+.todo-img{
+    height: 50px;
+
+}
 .todo-grid, 
 .todo-input-grid{
    display: grid;
